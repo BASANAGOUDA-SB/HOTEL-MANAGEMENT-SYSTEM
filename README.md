@@ -23,8 +23,7 @@ Features:
 
 Efficient hotel management through organized data storage and retrieval.
 Provides analytical insights for operational improvements.
-Conclusion:
 
+# Conclusion:
 The project offers a comprehensive system to manage hotel data effectively, aiding in both operations and decision-making processes.
-Paragraph Summary:
 The Hotel Management System is a SQL-based project designed to streamline and optimize hotel operations by managing data related to guests, bookings, and financial transactions. The database schema consists of a Guests table and a Bookings table, which store essential details for efficient management. The project includes scripts for data insertion and a variety of SQL queries that allow users to analyze guest behavior, booking patterns, and revenue. This system is a powerful tool for hotel management, offering features that enhance data organization, operational efficiency, and decision-making capabilities.
